@@ -1,0 +1,4 @@
+requests==2.32.5
+hypothesis==6.151.9
+pytest==9.0.2
+python-dotenv==1.0.1
